@@ -90,7 +90,10 @@ To deploy only the whole package to your Org, you may use the following button.
 package version. This section however summarizes the timeline and contents of the main
 evolutions made.
 
-### January 2026 (from original PEG_DC repository)
+ℹ️ First versions included metadata initially part of the **[PEG_DC](https://github.com/pegros/PEG_DC)**
+package and moved here to remove its dependencies with the **[PEG_LIST](https://github.com/pegros/PEG_LIST)** package.
+
+### January 2026 (PEG_DC)
 
 First version of the package.
 * Transfer of the **[sfpegDataCloudQueries_SVC](/help/sfpegDataCloudQueries.md)** Apex class
@@ -99,7 +102,7 @@ for easier deployment
 * Addition of the **[sfpegPromptQueries_SVC](/help/sfpegPromptQueries.md)** and 
 **[sfpegPrompts_SVC](/help/sfpegPrompts.md)** Apex classes
 
-### February 2026 (from original PEG_DC repository)
+### February 2026 (PEG_DC)
 
 Changes done:
 * Added new `ESC_SINGLE(((...)))` rework function in the 
