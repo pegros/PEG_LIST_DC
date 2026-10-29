@@ -90,7 +90,7 @@ To deploy only the whole package to your Org, you may use the following button.
 package version. This section however summarizes the timeline and contents of the main
 evolutions made.
 
-### Jan 2026
+### January 2026 (from original PEG_DC repository)
 
 First version of the package.
 * Transfer of the **[sfpegDataCloudQueries_SVC](/help/sfpegDataCloudQueries.md)** Apex class
@@ -99,20 +99,20 @@ for easier deployment
 * Addition of the **[sfpegPromptQueries_SVC](/help/sfpegPromptQueries.md)** and 
 **[sfpegPrompts_SVC](/help/sfpegPrompts.md)** Apex classes
 
-### Feb 2026
+### February 2026 (from original PEG_DC repository)
 
 Changes done:
 * Added new `ESC_SINGLE(((...)))` rework function in the 
 **[sfpegDataCloudQueries_SVC](/help/sfpegDataCloudQueries.md)** Apex class
 to handle cases where single quotes need to be escaped properly in Data Cloud SQL queries (e.g. for Semantic Search).
 
-### Oct 2026
+### October 2026 
 
 Changes done:
 * Addition of the **[sfpegDataCloudQueriesV3_SVC](/help/sfpegDataCloudQueriesV3.md)** Apex class,
 new variant of the **[sfpegDataCloudQueries_SVC](/help/sfpegDataCloudQueries.md)** Apex class
 relying on the new **sfsqlquery** Apex framework instead of **ConnectApi.CdpQuery**
 (synchronous queries only).
-* Move of **[PEG_LIST](https://github.com/pegros/PEG_LIST)** extension metadata from 
-**[PEG_DC](https://github.com/pegros/PEG_DC)** to this **PEG_LIST_DC** repository to
+* Move of **[PEG_LIST](https://github.com/pegros/PEG_LIST)** specific metadata from 
+**[PEG_DC](https://github.com/pegros/PEG_DC)** into this **PEG_LIST_DC** repository to
 segregate deployment dependencies. 
