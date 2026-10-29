@@ -1,10 +1,10 @@
 /***
 * @description  Test class for the sfpegDataCloudQueries_SVC class.
-*               Part of the PEG_LIST package extensions.
+*               Part of the PEG_LIST_DC package extensions.
 * @author       P-E GROS
 * @date         Sept 2025
 * @see          sfpegDataCloudQueries_SVC
-* @see          PEG_LIST package (https://github.com/pegros/PEG_LIST)
+* @see          PEG_LIST_DC package (https://github.com/pegros/PEG_LIST_DC)
 *
 * Legal Notice
 *

@@ -2,11 +2,11 @@
 * @description  Service class to invoke a prompt via the ConnectAPI
 *               and return the results (JSON array expected) for 
 *               display in a sfpegListCmp.
-*               Part of the PEG_LIST package extensions.
+*               Part of the PEG_LIST_DC package extensions.
 * @author       P-E GROS
 * @date         Jan 2026
 * @see          sfpegListQuery_SVC
-* @see          PEG_LIST package (https://github.com/pegros/PEG_LIST)
+* @see          PEG_LIST_DC package (https://github.com/pegros/PEG_LIST_DC)
 *
 * Legal Notice
 *

@@ -1,12 +1,12 @@
 /***
 * @description  Test class for the sfpegPrompts_SVC class.
 *               Mirrors the structure and checks used in sfpegDataCloudQueries_TST.
-*               Part of the PEG_LIST package extensions.
+*               Part of the PEG_LIST_DC package extensions.
 * @author       P-E GROS
 * @date         Jan 2026
 * @see          sfpegPrompts_SVC
 * @see          sfpegDataCloudQueries_TST
-* @see          PEG_LIST package (https://github.com/pegros/PEG_LIST)
+* @see          PEG_LIST_DC package (https://github.com/pegros/PEG_LIST_DC)
 *
 * Legal Notice
 *

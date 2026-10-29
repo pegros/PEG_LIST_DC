@@ -1,11 +1,11 @@
 /***
 * @description  Service class to execute a SQL queries to a connected
 *               DataCloud instance via the ConnectAPI
-*               Part of the PEG_LIST package extensions.
+*               Part of the PEG_LIST_DC package extensions.
 * @author       P-E GROS
 * @date         July 2025
 * @see          sfpegListQuery_SVC
-* @see          PEG_LIST package (https://github.com/pegros/PEG_LIST)
+* @see          PEG_LIST_DC package (https://github.com/pegros/PEG_LIST_DC)
 *
 * Legal Notice
 *
